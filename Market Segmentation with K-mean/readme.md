@@ -10,4 +10,8 @@ Here is the link to the excel file:
 
 ## Analysis and Result
 
+I ran K-mean clustering on different k values to find the best WCSS.
+
+K-mean Clustering using Xreal correctly classified 
+
 ![Cluster](./image/clusterresult.JPG)
