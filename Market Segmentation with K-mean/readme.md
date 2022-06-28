@@ -10,4 +10,4 @@ Here is the link to the excel file:
 
 ## Analysis and Result
 
-![Cluster](./image/clusterresult.png)
+![Cluster](./image/clusterresult.jpg)
