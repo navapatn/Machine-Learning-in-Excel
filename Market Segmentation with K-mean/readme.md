@@ -4,7 +4,11 @@
 I used Excel to perform K-mean Clustering on customers' spending score and annual income
 
 ## Data and Link
-I used the dataset provided by datascience365.com
+I used the dataset provided by datascience365.com. 
+
+This data provide a list of customer_id, annual income, and their spending score at the mall.
+
+We want to perform market segmentation so that the mall knows their primary target to do marketing, promotions, etc.
 
 Here is the link to the excel file:
 
