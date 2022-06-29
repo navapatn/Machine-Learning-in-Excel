@@ -10,7 +10,7 @@ This data provide a list of customer_id, annual income, and their spending score
 
 We want to perform market segmentation so that the mall knows their primary target to do marketing, promotions, etc.
 
-Here is the link to the excel file:
+Here is the link to the excel file: https://drive.google.com/drive/folders/1VHAaU9sba3eD4fEeXXh65VtNokiTSY1T
 
 ## Analysis and Result
 
