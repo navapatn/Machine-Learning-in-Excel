@@ -10,7 +10,7 @@ This data provide information about houses i.e. area, no. of bedrooms/bathrooms,
 
 We want to build a regression model learning from this dataset to predict house price.
 
-Here is the link to the excel file:
+Here is the link to the excel file: https://drive.google.com/drive/folders/1yn0MCEoyZHdS9diTtCAyqYwqQlf4Zwqo
 
 ## 1. Data Cleaning
 
